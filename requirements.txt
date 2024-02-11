@@ -2,7 +2,7 @@
 
 python-dotenv>=1.0.0
 Pyrogram>=2.0
-EdgeGPT>=0.10
+git+https://github.com/vpsbykaif/EdgeGPT@main#egg=EdgeGPT
 BingImageCreator>=0.4
 tgcrypto
 aiohttp
